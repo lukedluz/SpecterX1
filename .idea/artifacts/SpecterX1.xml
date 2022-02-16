@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecterX1">
+    <output-path>$PROJECT_DIR$/../Plugins</output-path>
+    <root id="archive" name="SpecterX1.jar">
+      <element id="module-output" name="SpecterX1" />
+    </root>
+  </artifact>
+</component>

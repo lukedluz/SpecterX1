@@ -1,0 +1,6 @@
+name: SpecterX1
+main: com.lucas.specterx1.Main
+version: 1.0
+author: [Specter]
+commands:
+    x1:

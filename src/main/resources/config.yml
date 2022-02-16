@@ -1,0 +1,24 @@
+#Custo para cada participante do x1
+Custo: 1
+
+#Premio ao vencedor do x1
+Premio: 1
+
+#Tempo em segundos que o desafiado tem para aceitar o convite de x1.
+ConviteTempo: 60
+
+#Tempo maximo em minutos de duracao do x1.
+TempoMaximo: 15
+
+#Tempo em segundos para recolher os items do chao.
+TempoRecolherItems: 30
+
+#Bloquear comandos durante o x1.
+BloquearComandos: true
+
+#Comandos Liberados, caso BloquearComandos for true;
+ComandosLiberados:
+ - /g
+ - /tell
+ - /r
+ - /.
